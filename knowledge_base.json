@@ -1,1 +1,12 @@
-{"questions": []}
+{
+  "questions": [
+    {
+      "question": "como estas ?",
+      "answer": "todo bien y vos ?"
+    },
+    {
+      "question": "hola",
+      "answer": "c estas?"
+    }
+  ]
+}
