@@ -1,0 +1,6 @@
+nombre_entorno
+dev.env
+homo.env
+prod.env
+.env
+__pycache__

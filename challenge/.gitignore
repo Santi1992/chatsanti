@@ -1,0 +1,9 @@
+__pycache__
+__pycache__/*
+.vscode
+/__pycache__/*
+*/__pycache__/*
+*/*/__pycache__/*
+nombre_entorno
+.env
+dev.env
