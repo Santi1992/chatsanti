@@ -27,7 +27,8 @@ ignore_letters = ['?','!', "?", "."]
 
 for intent in intents["intents"]:
     for pattern in intent["patterns"]:
+        # Divide el texto en unidades mas pequeñas.
         word_list = nltk.word_tokenize(pattern)
-        print(word_list)
         words.extend(word_list)
+        # Pongo cada pregunta con su posible tageo ya tokenizada la oración.
         documents.append((word_list, intent["tag"]))
