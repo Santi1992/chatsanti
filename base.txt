@@ -1,0 +1,2 @@
+#python -m venv nombre_entorno  --> windows
+#nombre_entorno\Scripts\activate
