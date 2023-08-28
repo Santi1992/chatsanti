@@ -7,6 +7,11 @@
     {
         "tag": "nombre",
         "patterns": ["como te llamas?", "como es tu nombre?"],
-        "responses": ["JUAN", "mi nombre es martin"]
+        "responses": ["JUAN", "mi nombre es juan"]
+    },
+    {
+        "tag": "gota",
+        "patterns": ["como te llamas?", "como es tu nombre?"],
+        "responses": ["JUAN", "mi nombre es juan"]
     }
 ]}
